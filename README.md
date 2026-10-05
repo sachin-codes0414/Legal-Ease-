@@ -45,7 +45,7 @@
 ## Project Structure
 
 ```
-d:\Legal ease Eugin\
+d:\Legal ease \
 ├── .env                          # Local environment variables (GEMINI_API_KEY, etc.)
 ├── .env.example                  # Template configuration file
 ├── .gitignore                    # Git ignore file
